@@ -18,18 +18,12 @@
   height: 100%;
 }
 
-.card-padding-20 {
-  padding-top: 20px;
+.card-padding-react {
+  padding-top: 30px;
+  padding-bottom: 8px;
 }
 
-.card-padding-25 {
-  padding-top: 25px;
-}
-
-.card-padding-40 {
-  padding-top: 40px;
-}
-
-.card-padding-50 {
-  padding-top: 50px;
+.card-padding-vue {
+  padding-top: 30px;
+  padding-bottom: 17px;
 }
